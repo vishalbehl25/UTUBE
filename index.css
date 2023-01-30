@@ -468,8 +468,8 @@ nav {
     }
    
     .largecontainer {
-        width: 0px;    
-        padding-left: 100%;
+        display: none;
+       
     }
     
 
